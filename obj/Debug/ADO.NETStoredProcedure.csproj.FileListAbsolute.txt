@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETStoredProcedure\bin\Debug\ADO.NETStoredProcedure.exe.config
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETStoredProcedure\bin\Debug\ADO.NETStoredProcedure.exe
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETStoredProcedure\bin\Debug\ADO.NETStoredProcedure.pdb
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETStoredProcedure\obj\Debug\ADO.NETStoredProcedure.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETStoredProcedure\obj\Debug\ADO.NETStoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETStoredProcedure\obj\Debug\ADO.NETStoredProcedure.exe
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETStoredProcedure\obj\Debug\ADO.NETStoredProcedure.pdb
